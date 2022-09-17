@@ -11,15 +11,16 @@
     </div>
 </div>
 
-                           
+     
+     ---
+### Bio
+- Student studying computer science in SETU. College and private project repositories are stored here.
+
 ---
 ### Studying
 - South East Technological University - BSc (Hons) Applied Computing (Games Developemt) (2020-2024)
+---
 
----
-### Bio
-- Student studying computer science in SETU. College and private project repositories are stored here.
----
 ### What are some Languages & Tools you have used?
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>
