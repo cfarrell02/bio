@@ -14,7 +14,7 @@
      
 ---
 ### Bio
-- Student studying computer science in SETU. College and private project repositories are stored here.
+- Studying computer science in SETU. College and private project repositories are stored here.
 
 ---
 ### Studying
