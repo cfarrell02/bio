@@ -21,7 +21,7 @@
 - South East Technological University - BSc (Hons) Applied Computing (Games Developemt) (2020-2024)
 ---
 
-### What are some Languages & Tools you have used?
+### Programming Languages and Software used.
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
