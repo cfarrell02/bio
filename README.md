@@ -2,17 +2,17 @@
     <img src="https://media-exp1.licdn.com/dms/image/C4E16AQFrk76a0YZkpQ/profile-displaybackgroundimage-shrink_350_1400/0/1663160064037?e=1668643200&v=beta&t=ubheGAHrfJSKF1L0_T67Ppxajggr1-36cZmKyTDvecU"width="960"/>
     <h3> Cian Farrell </h3>
     <div id="badges" align="center">
-        <a href=" www.linkedin.com/in/cianfarrell02">
+        <a href="https://www.linkedin.com/in/cianfarrell02">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&theme=darcula" alt="LinkedIn Badge"/>
         </a>
       <a href="https://itch.io/profile/cfarrell">
-            <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itch.io&logoColor=white&theme=darcula" alt="LinkedIn Badge"/>
+                <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itch.io&logoColor=white&theme=darcula" alt="Itch.io Badge"/>
         </a>
     </div>
 </div>
 
      
-     ---
+---
 ### Bio
 - Student studying computer science in SETU. College and private project repositories are stored here.
 
