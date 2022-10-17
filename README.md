@@ -23,7 +23,7 @@
 
 ---
 ### Studying
-- South East Technological University - BSc (Hons) Applied Computing (Games Developemt) (2020-2024)
+- South East Technological University - BSc (Hons) Applied Computing (Games Development) (2020-2024)
 ---
 
 ### Programming Languages and Software used.
