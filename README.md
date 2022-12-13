@@ -50,7 +50,7 @@
 ---
 Statistics
       
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfarrell02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfarrell02&exclude_repo=OperationEnduringSurvival,Switchs-Adventure&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div id="streaks" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=cfarrell02&theme=darcula&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="Streak Badge"/>
 </div>
