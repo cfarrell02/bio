@@ -49,8 +49,8 @@
 
 ---
 Statistics
-      
+    <br/>
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfarrell02&show_icons=true&theme=transparent)
+    <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfarrell02&hide=ShaderLab,GLSL&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<div id="streaks" align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfarrell02&show_icons=true&theme=transparent)
-</div>
+  
