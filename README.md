@@ -6,10 +6,10 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&theme=darcula" alt="LinkedIn Badge"/>
         </a>
       <a href="https://itch.io/profile/cfarrell">
-                <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itch.io&logoColor=white&theme=darcula" alt="Itch.io Badge"/>
+               <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itch.io&logoColor=white&theme=darcula" alt="Itch.io Badge"/>
         </a>
-         <img src="https://img.shields.io/badge/cianfarrell02@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&theme=darcula" alt="Gmail Badge"/>
-        <a href="https://twitter.com/cianster4">
+<!--          <img src="https://img.shields.io/badge/cianfarrell02@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&theme=darcula" alt="Gmail Badge"/> -->
+        <a href="https://twitter.com/cianfarrell02">
                 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&theme=darcula" alt="Itch.io Badge"/>
         </a>
        
