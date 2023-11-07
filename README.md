@@ -1,5 +1,5 @@
 <div id="header" style="font-size:35px" align="center">  
-    <img src="https://github.com/cfarrell02/cfarrell02/blob/main/P2P%20Photo.jpg?raw=true"width="960"/>
+    <img src="P2P Photo.jpg"width="960"/>
     <h3> Cian Farrell </h3>
     <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/cianfarrell02">
@@ -23,7 +23,7 @@
 
 ---
 ### Studying
-- South East Technological University - BSc (Hons) Applied Computing (Games Development) (2020-2024)
+- South East Technological University - BSc (Hons) Computer Science (Games Development) (2020-2024)
 ---
 
 ### Programming Languages and Software used.
