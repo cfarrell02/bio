@@ -1,5 +1,5 @@
 <div id="header" style="font-size:35px" align="center">  
-    <img src="P2P Photo.jpg"width="960"/>
+<!--     <img src="P2P Photo.jpg"width="960"/> -->
     <h3> Cian Farrell </h3>
     <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/cianfarrell02">
@@ -9,9 +9,9 @@
                <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itch.io&logoColor=white&theme=darcula" alt="Itch.io Badge"/>
         </a>
 <!--          <img src="https://img.shields.io/badge/cianfarrell02@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&theme=darcula" alt="Gmail Badge"/> -->
-        <a href="https://twitter.com/cianfarrell02">
+<!--         <a href="https://twitter.com/cianfarrell02">
                 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&theme=darcula" alt="Itch.io Badge"/>
-        </a>
+        </a> -->
        
 
 </div>
